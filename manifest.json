@@ -11,7 +11,7 @@
         "persistent": false
     },    
     "browser_action": {
-        "default_icon": "images/duck.png",
+        "default_icon": "duck.png",
         "default_popup": "producktive.html",
         "default_title": "Press spacebar when in focus to quack"
     },
