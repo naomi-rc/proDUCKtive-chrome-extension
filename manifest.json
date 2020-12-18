@@ -3,20 +3,18 @@
     "name": "proDUCKtive",
     "version": "1.0",
     "description": "Rubber duck extension for proDUCKtivity",
+    "permissions": [
+        "storage"
+    ],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
-    },
-    "content_scripts": [
-        {
-            "matches": ["<all_urls>"],
-            "js" : ["jquery-3.5.1.js", "content.js"]
-        }
-    ],
+    },    
     "browser_action": {
         "default_icon": "duck.png",
         "default_popup": "producktive.html",
         "default_title": "Press spacebar when in focus to quack"
-    }
+    },
+    "options_page": "options.html"
     
 }
