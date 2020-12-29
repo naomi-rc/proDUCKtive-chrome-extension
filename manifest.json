@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "proDUCKtive",
+    "name": "proDUCKtive: Rubber Duck Helper",
     "version": "1.0",
     "description": "Rubber duck extension for proDUCKtivity",
     "permissions": [
