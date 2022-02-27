@@ -30,4 +30,4 @@ Other creative and fun uses for proDUCKtive rubber duck:
 - sticky notes for quickly jotting things down
 - joke generator for when you need some cheering up 😂 (just be sure to add something funny in your duck's possible responses)
 
-Check out https://github.com/naomi-rc/proDUCKtive-chrome-extension for more info!
+Try out the extension [here](https://chrome.google.com/webstore/detail/producktive-rubber-duck-h/ihoaoofehlfpgfnnnhhhleebkjmflhke)!
