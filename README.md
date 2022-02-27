@@ -1,6 +1,8 @@
 # proDUCKtive-chrome-extension
 A chrome extension rubber duck for debugging
 
+Try out the extension [here](https://chrome.google.com/webstore/detail/producktive-rubber-duck-h/ihoaoofehlfpgfnnnhhhleebkjmflhke)!
+
 ![alt text](https://raw.githubusercontent.com/naomi-rc/proDUCKtive-chrome-extension/master/images/demo_duck.png)
 
 
@@ -30,4 +32,4 @@ Other creative and fun uses for proDUCKtive rubber duck:
 - sticky notes for quickly jotting things down
 - joke generator for when you need some cheering up 😂 (just be sure to add something funny in your duck's possible responses)
 
-Try out the extension [here](https://chrome.google.com/webstore/detail/producktive-rubber-duck-h/ihoaoofehlfpgfnnnhhhleebkjmflhke)!
+
