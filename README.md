@@ -3,7 +3,9 @@ A chrome extension rubber duck for debugging
 
 Try out the extension [here](https://chrome.google.com/webstore/detail/producktive-rubber-duck-h/ihoaoofehlfpgfnnnhhhleebkjmflhke)!
 
-![alt text](https://raw.githubusercontent.com/naomi-rc/proDUCKtive-chrome-extension/master/images/demo_duck.png)
+![image](https://user-images.githubusercontent.com/35537740/182698675-5f41b3cd-7d99-4c38-9aa6-3a1f4835b9fb.png)
+![image](https://user-images.githubusercontent.com/35537740/182698711-0daf9035-21b3-47d2-94c8-dc1e366aab9d.png)
+
 
 
 proDUCKtive
